@@ -17,6 +17,8 @@ export const Header = (props) =>  {
                 <h1> Daily Checklist   </h1>
                 <Link to="./Information"> About </Link>
 
+
+
             </div>
     );
 }

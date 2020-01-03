@@ -48,9 +48,9 @@ export const Information = (props) => {
           this project useful.
           </p>
 
-          <Link to="/" >
-            <button style={styleButton}> Home </button>
-          </Link>
+            <Link to="/" >
+             <button style={styleButton}> Home </button>
+            </Link>
       </div>
     );
 }
